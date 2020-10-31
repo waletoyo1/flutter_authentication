@@ -12,6 +12,8 @@
 * After changing the app Id, rename this path (kotlin/com/example/flutter_authentication) to correspond to your new app Id.
 * Connect your app to firebase. Visit http://firebase.google.com for guidance.
 * Enable Email/password in your firebase console under Authentication
+![flutter_auth](https://user-images.githubusercontent.com/50165149/97778908-d21ce080-1b7a-11eb-879b-f6a6163710cb.png)
+
 
 
 * Run your app 
