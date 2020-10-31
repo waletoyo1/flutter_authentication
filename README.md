@@ -17,6 +17,9 @@
 
 
 * Run your app 
-* NB: I added a UserManerger class to collect inside firestore immediately a user signs up.
+
+![WhatsApp Image 2020-10-31 at 12 20 05 PM](https://user-images.githubusercontent.com/50165149/97778938-05f80600-1b7b-11eb-82b9-26e97bc94966.jpeg)
+
+* NB: I added a UserManerger class inside user_manager.dart to collect inside firestore immediately a user signs up.
 
 
